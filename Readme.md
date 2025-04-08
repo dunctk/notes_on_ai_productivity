@@ -5,13 +5,13 @@
 ### General quick answers
 Getting quick info that doesn't require citations. Examples: quick recipie ideas, cooking help ('sauce doesn't have enough body, how to fix'), diy tips, etc
 
-- Gemini 2.5 pro (currently free): (https://aistudio.google.com/)[Google AI Studio]
+- Gemini 2.5 pro (currently free): [Google AI Studio](https://aistudio.google.com/)
 
 
 ### Light research
 
-- (https://perplexity.ai)[Perplexity]
-- Gemini with 'grounding with Google search' enabled (https://aistudio.google.com/)[Google AI Studio]
+- [Perplexity](https://perplexity.ai)
+- Gemini with 'grounding with Google search' enabled [Google AI Studio](https://aistudio.google.com/)
    Click the 'grounding with Google Search' switch on the menu on the right side of the screen
 
 
@@ -24,12 +24,12 @@ For questions where more than a few Google searches are required.
 ### Deep Research
 For really important, complex topics with multiple criteria. For example creating a detailed checklist of all the things to check yourself when viewing a 1930's Andalucian home that needs restoration, what photos to take for a surveyor's intitial thoughts, and what angles to take photos from with a drone.
 
-- ChatGPT Deep Research mode (only 10 per month included): (https://chatgpt.com/)[ChatGPT] and click the Deep Research button
+- ChatGPT Deep Research mode (only 10 per month included): [ChatGPT](https://chatgpt.com/) and click the Deep Research button
 
 
 ## Image generation
 
-- (https://chatgpt.com/)[ChatGPT] and ask it to create an image. Make sure you have the gpt-4o model selected at the dropdown at the top of the screen.
+- [ChatGPT](https://chatgpt.com/) and ask it to create an image. Make sure you have the gpt-4o model selected at the dropdown at the top of the screen.
 
 
 ## Coding
